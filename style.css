@@ -222,4 +222,21 @@ label:hover{
         font-size: 15px;
         bottom: -4px;
     }
+    .content{
+        margin: 40px 40px;
+    }
+    .content .artical h1{
+        font-size: 16px;
+    }
+    .content .artical a{
+        margin-top: 34px;
+        padding: 3px 40px;
+        margin-left: 50px;
+    }
+    .content .social{
+        margin-top: 20px;
+        margin-left: 60px;
+    
+    }
+
 }
