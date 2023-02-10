@@ -238,9 +238,14 @@ label:hover{
     
     }
     .content .social{
-        margin-top: 20px;
-        margin-left: 60px;
+        display: flex;
+        justify-content: center;
+        /* align-items: center; */
     
+    }
+    .content .social a{
+        display: flex;
+        padding: 0px 33px;
     }
 
 }
