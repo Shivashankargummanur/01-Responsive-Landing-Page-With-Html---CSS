@@ -24,7 +24,7 @@
     /* border:1px solid red; */
    
     width: 100%;
-    height: auto;
+
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -214,8 +214,12 @@ label:hover{
         font-size: 30px;
     }
 }
-/* @media  screen and (max-width:600px ){
-    .content .artical h1{
-        font-size: 15px;
+@media  screen and (max-width:600px ){
+    .navbar{
+        padding: 25px 40px;
     }
-} */ 
+    .navbar .logo{
+        font-size: 15px;
+        bottom: -4px;
+    }
+}
