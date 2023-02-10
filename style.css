@@ -249,6 +249,7 @@ label:hover{
         display: flex;
         padding: 0px 33px;
         font-size: 25px;
+        text-decoration: none;
     }
 
 }
