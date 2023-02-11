@@ -253,6 +253,9 @@
          font-size: 15px;
          bottom: -4px;
      }
+     .logo-span{
+        font-size: 20px;
+     }
 
      .content {
          margin: 40px 40px;
